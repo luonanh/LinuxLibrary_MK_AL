@@ -1,3 +1,6 @@
+// https://opensource.com/article/21/2/linux-software-libraries
+// https://unix.stackexchange.com/questions/67781/use-shared-libraries-in-usr-local-lib
+
 #include <stdio.h>
 #include <primes.h>
 
